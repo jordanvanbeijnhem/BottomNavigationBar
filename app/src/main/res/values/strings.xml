@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_our_home_menu">This is our home menu!</string>
+    <string name="rate">Rate</string>
+</resources>
